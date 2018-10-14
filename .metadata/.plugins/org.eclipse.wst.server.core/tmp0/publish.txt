@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Thu Sep 20 20:03:42 KST 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\zc753\\.m2\\repository\\org\\springframework\\spring-web\\5.0.9.RELEASE\\spring-web-5.0.9.RELEASE.jar=C\:\\sts\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\A201632042\\WEB-INF\\lib\\spring-web-5.0.9.RELEASE.jar
+org.eclipse.jst.jee.server\:A201632042=C\:\\sts\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\A201632042
+org.eclipse.jst.jee.server\:test2=C\:\\sts\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\test2
